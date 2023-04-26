@@ -6,7 +6,7 @@
 #
 #    http://shiny.rstudio.com/
 #
-
+# loading the required packages
 library(shiny)
 library(ggplot2)
 library(RColorBrewer)
